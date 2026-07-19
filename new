@@ -5,8 +5,7 @@ sum=$(($n1+$n2))
 echo "sum is:$sum"
 
 
-#!/bin/bash
-n1=1
+n1=3
 n2=2
 sum=$(($n1+$n2))
 echo "sum is:$sum"
