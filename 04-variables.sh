@@ -7,3 +7,5 @@ echo "user name is $USER_NAME"
 
 echo "please enter pass"
 read -s pssword
+
+echo "password name is $pssword"
