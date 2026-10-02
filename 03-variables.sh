@@ -1,6 +1,6 @@
 #!/bin/bash
-PERSON1=suresh  #no space
-PERSON2=ramesh
+PERSON1=trump  #no space
+PERSON2=rakesh
 
 echo "$PERSON1: hello $PERSON2, how are you"
 echo "$PERSON2: hello $PERSON1, i am fine. how are you doing"
